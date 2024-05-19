@@ -63,7 +63,7 @@ Computer Enginnering 課題
 
 **=> 実行環境構築**
 **Dockerビルド**
-1. GitHubURL:
+1. GitHubURL:https://github.com/Haruka9404/Exam_20240519/tree/main
 2. `git clone git@github.com:Haruka9404/Exam_20240519.git`を実行しgitのクローンを作成する
 3. DockerDesktopアプリを立ち上げる
 4. `docker-compose up -d --build`を実行しコンテナを作成する
