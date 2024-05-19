@@ -1,0 +1,33 @@
+.header {
+    background: #000bbb;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 15px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.reference_url {
+    display: flex;
+    font-size: 14px;
+}
+
+.reference_url a {
+    margin-right:10px;
+}
+
+footer {
+    height:30px;
+}
